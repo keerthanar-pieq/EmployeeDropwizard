@@ -23,7 +23,7 @@
   - Admin: `8081`
 - Sets logging levels.
 - Configures database connection:
-  - `user`, `password`, and `url` (with timezone settings).
+  - `user`, `password`, and `url` 
 
 ---
 
