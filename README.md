@@ -74,17 +74,16 @@ REST controller for **Employee APIs**.
 
 ---
 
-## 🌐 AttendanceResource.kt
+##  AttendanceResource.kt
 REST controller for **Attendance APIs**.
 
-| HTTP Method | Path                                     | Description                         |
-|-------------|------------------------------------------|-------------------------------------|
-| `GET`       | `/api/v1/attendance/`                    | Get all attendance records          |
-| `POST`      | `/api/v1/attendance/checkin/{id}`        | Mark check-in for an employee       |
-| `POST`      | `/api/v1/attendance/checkout/{id}`       | Mark check-out for an employee      |
-| `DELETE`    | `/api/v1/attendance/{id}`                | Delete attendance for an employee   |
-| `GET`       | `/api/v1/attendance/checkedin`           | List employees currently checked-in |
-| `GET`       | `/api/v1/attendance/workinghours?from=...&to=...` | Get working hours for employees in a date range |
+
+ `GET`        `/api/v1/attendance/`                     Get all attendance records         
+ `POST`       `/api/v1/attendance/checkin/{id}`         Mark check-in for an employee       
+ `POST`       `/api/v1/attendance/checkout/{id}`        Mark check-out for an employee      
+ `DELETE`     `/api/v1/attendance/{id}`                 Delete attendance for an employee   
+ `GET`        `/api/v1/attendance/checkedin`            List employees currently checked-in 
+ `GET`        `/api/v1/attendance/workinghours?from=...&to=...`  Get working hours for employees in a date range 
 
 ---
 
