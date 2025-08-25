@@ -117,7 +117,6 @@ Defines available departments using Kotlin enum:
 - `HR`
 - `FINANCE`
 
-Includes  function `fromId(id: Int)` for mapping from DB values.
 
 ---
 
@@ -128,7 +127,7 @@ Defines employee roles using enum:
 - `DEVELOPER`
 - `HR`
 
-Includes  function `fromId(id: Int)` to map from DB values.
+
 
 ---
 
