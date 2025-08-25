@@ -1,5 +1,4 @@
 ## Application.Kt:
-        It extends Dropwizard’s Application<T> class and bootstraps the app
         Registers Kotlin support with Jackson (KotlinModule).
         Initializes JDBI  for PostgreSQL and DAOs
         Registers REST resources 
