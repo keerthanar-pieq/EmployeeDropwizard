@@ -133,7 +133,7 @@ Includes utility function `fromId(id: Int)` to map from DB values.
 ---
 
 ##  build.gradle.kts
-Kotlin DSL build file for Gradle.
+Kotlin build file for Gradle.
 
 - **Plugins**: Kotlin, Application
 - **Main Class**: `ApplicationKt`
