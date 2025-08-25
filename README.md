@@ -1,10 +1,10 @@
 ## Application.Kt:
- ### Registers Kotlin  with Jackson .
-   Initializes JDBI  for PostgreSQL and DAOs
-   Registers REST resources 
-   AttendanceResource
-   EmployeeResource
-   The main function calls run() to launch the Dropwizard application using  YAML config.
+   ->Registers Kotlin  with Jackson .
+   ->Initializes JDBI  for PostgreSQL and DAOs
+   ->Registers REST resources 
+         AttendanceResource
+         EmployeeResource
+   ->The main function calls run() to launch the Dropwizard application using  YAML config.
         
 ## EmployeeConfiguration.kt:
 Maps values from config.yml to Kotlin properties using Jackson annotations.
