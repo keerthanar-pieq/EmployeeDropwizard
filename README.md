@@ -65,14 +65,12 @@ Functions include:
 
 ---
 
-## 🌐 EmployeeResource.kt
-REST controller for **Employee APIs**.
+## EmployeeResource.kt
+REST controller for **Employee APIs**.        
 
-| HTTP Method | Path                      | Description              |
-|-------------|---------------------------|--------------------------|
-| `GET`       | `/api/v1/employees`       | Get all employees        |
-| `POST`      | `/api/v1/addemployee`     | Add a new employee       |
-| `DELETE`    | `/api/v1/{id}`            | Delete employee by ID    |
+ `GET`        `/api/v1/employees`        Get all employees        
+ `POST`       `/api/v1/addemployee`      Add a new employee       
+ `DELETE`     `/api/v1/{id}`             Delete employee by ID    
 
 ---
 
