@@ -1,5 +1,5 @@
 ## Application.Kt:
-        Registers Kotlin support with Jackson (KotlinModule).
+        Registers Kotlin  with Jackson (KotlinModule).
         Initializes JDBI  for PostgreSQL and DAOs
         Registers REST resources 
                AttendanceResource
