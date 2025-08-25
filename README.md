@@ -83,7 +83,6 @@ REST controller for **Attendance APIs**.
  `POST`       `/api/v1/attendance/checkout/{id}`        Mark check-out for an employee      
  `DELETE`     `/api/v1/attendance/{id}`                 Delete attendance for an employee   
  `GET`        `/api/v1/attendance/checkedin`            List employees currently checked-in 
- `GET`        `/api/v1/attendance/workinghours?from=...&to=...`  Get working hours for employees in a date range 
 
 ---
 
@@ -142,8 +141,6 @@ Kotlin DSL build file for Gradle.
   - Dropwizard Core (`io.dropwizard`)
   - JDBI 3 (PostgreSQL support)
   - PostgreSQL JDBC Driver
-  - Jackson Kotlin Module (JSON serialization)
-  - Jackson JSR310 Module (Java time support)
 - **Run Config**:
   - Uses the command:  
     ```bash
