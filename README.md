@@ -1,4 +1,4 @@
-# Employee Attendance Managemet System
+# Employee Attendance Management System
 
 ##  Tech Stack
 
