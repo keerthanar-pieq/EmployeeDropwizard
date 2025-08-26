@@ -35,7 +35,7 @@
 ---
 
 ##  EmployeeManager.kt
-Acts as a bridge between the **resource layer (REST API)** and the **data layer (DAOs)**.
+Acts as a bridge between the **REST API** and the **DAOs**.
 
 Contains business logic to:
 - Add/delete employees.
