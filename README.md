@@ -144,8 +144,8 @@ Kotlin build file for Gradle.
 - **Main Class**: `ApplicationKt`
 - **Dependencies**:
   - Dropwizard Core (`io.dropwizard`)
-  - JDBI 3 (PostgreSQL support)
-  - PostgreSQL JDBC Driver
+  - JDBI 
+  - PostgreSQL
 - **Run Config**:
   - Uses the command:  
     ```bash
