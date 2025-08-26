@@ -103,7 +103,6 @@ Model class representing attendance data.
   - `workingHours` (calculated as hours and minutes)
 - Uses `@JsonFormat` for date-time formatting in JSON.
 - Overrides `toString()` for readable logging output.
-- Includes logic to calculate working hours between check-in and check-out.
 
 ---
 
