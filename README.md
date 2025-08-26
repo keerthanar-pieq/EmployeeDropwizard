@@ -1,4 +1,11 @@
-# Project Structure Overview
+# Employee Attendance Managemet System
+
+##  Tech Stack
+
+- **Language**: Kotlin
+- **Framework**: Dropwizard
+- **Database**: PostgreSQL
+---
 
 ##  Application.kt
 - Registers Kotlin with Jackson.
