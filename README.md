@@ -8,7 +8,6 @@
 ---
 
 ##  Application.kt
-- Registers Kotlin with Jackson.
 - Initializes JDBI for PostgreSQL and sets up DAOs.
 - Registers REST resources:
   - `AttendanceResource`
