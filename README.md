@@ -19,7 +19,7 @@
 
 ##  EmployeeConfiguration.kt
 - Maps values from `config.yml` to Kotlin properties using Jackson annotations.
-- Contains a nested `DatabaseConfig` class with:
+- Contains a  `DatabaseConfig` class with:
   - `url`, `user`, and `password` – required for DB connection.
 
 ---
